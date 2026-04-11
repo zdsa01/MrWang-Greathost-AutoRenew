@@ -1,14 +1,13 @@
 # GreatHost 自动续期状态
 
-🚨 **GreatHost 脚本报错**
+🎉 **GreatHost 续期成功**
 
 📛 服务器名称: zdsa
-❌ 故障: `Message: 
-Stacktrace:
-#0 0x563388433a6a <unknown>
-#1 0x563387e42ab5 <unknown>
-#2 0x563387e95676 <unk`
-🌐 代理状态: 已尝试直连
-📅 时间: 2026/04/10 21:09:57
+🆔 ID: `0eb75f45-5c3e-4641-bce9-e7da7db57a81`
+⏰ 增加时间: 24 ➔ 36h
+🚀 服务器状态: ❓ unknown
+💡 提示: Servidor gratuito renovado correctamente
+🌐 落地 IP: `40.76.117.243`
+📅 时间: 2026/04/11 10:10:11
 
-> 最近更新: 2026/04/10 21:09:57
+> 最近更新: 2026/04/11 10:10:11
