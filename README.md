@@ -4,9 +4,9 @@
 
 📛 服务器名称: zdsa
 ❌ 故障: `Message: unknown error: net::ERR_CONNECTION_CLOSED
-  (Session info: chrome=149.0.7827.102)
+  (Session info: chrome=149.0.7827.114)
 Stacktrac`
 🌐 代理状态: 已尝试直连
-📅 时间: 2026/06/11 23:59:39
+📅 时间: 2026/06/12 11:54:42
 
-> 最近更新: 2026/06/11 23:59:39
+> 最近更新: 2026/06/12 11:54:42
